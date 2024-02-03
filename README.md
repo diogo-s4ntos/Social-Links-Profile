@@ -1,5 +1,5 @@
 <h1>Social-Links-Profile</h1>
-A challenger of Frontend Mentor to make a simple design of a 'card' with a some information.
+A challenger of Frontend Mentor to make a simple social links profile.
 
 <h1>Screenshot</h1>
 
