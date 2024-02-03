@@ -71,6 +71,11 @@ main{
     border-radius: 10px;
 }
 
+#card #links a:hover{
+    color: var(--off-black);
+    background-color: var(--green);
+}
+
 @media screen and (max-width: 420PX){
     #card h1{
         color: var(--white);
